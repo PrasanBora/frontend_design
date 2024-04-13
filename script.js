@@ -46,7 +46,7 @@ gsap.to("#page2>h1>span" ,{
     end:`bottom top`,
     scroller :`#main`,
     scrub:.5,
-    markers:true
+    // markers:true
   },
   stagger:.2,
   color: `#fff`
