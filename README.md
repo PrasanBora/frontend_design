@@ -2,7 +2,7 @@
 Check it out here ->https://prasanbora.github.io/frontend_design/
 
 Welcome to the Frontend Design Project repository! This project showcases a visually appealing frontend design implemented using HTML, CSS, and JavaScript. The design incorporates smooth effects and visual 3D effects achieved with GSAP (GreenSock Animation Platform), Locomotive Scroll, and Canvas.
-This project is a clone of the website https://thisismagma.com/. The goal of this project was to replicate the design, layout, and functionality of the original Magma website using modern web technologies. The clone is intended to showcase web development skills.
+ <br> This project is a clone of the website https://thisismagma.com/. The goal of this project was to replicate the design, layout, and functionality of the original Magma website using modern web technologies. The clone is intended to showcase web development skills.
 
 <img width="1280" alt="Screenshot 2023-07-21 181317" src="https://github.com/nameerakhter/magma_clone/assets/120779958/a6874ecc-49c8-41a6-8cf8-f17b12a30c3a">
 
