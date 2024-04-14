@@ -12,7 +12,8 @@ html ,body{
 #main {
     position:relative;
     overflow: hidden;
-    background-color:#0a3cce;    /* background-color: black;
+    background-color:#1137ca;
+        /* background-color: black;
     display: block; */
 
 }
@@ -268,3 +269,116 @@ html ,body{
     width: 100%;
     object-fit: cover;
   }
+
+  .page8-bottom{
+    position: absolute;
+    bottom: 10%;
+    left:50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+  .page8-bottom>h1{
+    font-family: a;
+    color: #fff;
+    font-weight: 100;
+    margin-bottom: 2vw;
+    font-size: 6vw;
+  }
+
+  .page8-bottom>button{
+    border-radius: 50px;
+    padding: 14px 30px;
+    background-color: #fff;
+    color: #0940e0;
+    border: none;
+    font-size: 1.05VW;
+  }
+
+  #page9
+  {
+    height: 100vh;
+    width:100vw;
+    background-color:#1137ca;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .left9{
+    height: 100%;
+    width: 40%;
+    /* background-color: rgb(67, 103, 91); */
+    color: #fff;
+    font-family: a;
+    position: relative;
+   
+  }
+  .left9>h1{
+    position: absolute;
+    font-weight: 100;
+    font-size: 7vw;
+    top:27%;
+    /* right:2%; */
+    margin-left: 20%;
+    line-height: 1;
+  }
+  .right9{
+    height: 100%;
+    width: 60%;
+    /* background-color: aquamarine; */
+    position: relative;
+  }
+
+  .right9-center{
+    height: 75%;
+    width: 95%;
+    margin-left: -5%;
+    position: absolute;
+    top: 20%;
+    /* left : 1%; */
+    background-image: url("https://thisismagma.com/wp-content/uploads/2023/04/magma.wp2.cubdev.com-home-1.jpeg");
+    border-radius: 15px;
+    background-size: cover;
+  }
+
+  #page10
+  {
+    height: 100vh;
+    width:100vw;
+    background-color:#1137ca;
+    position: relative;
+    margin-top: 3vw;
+   
+  }
+
+  .right10{
+    height: 100%;
+    width: 60%;
+    /* background-color: aquamarine; */
+    position: relative;
+    /* background-color: #5c59f6; */
+    left :37%;
+  }
+
+  .right10-inner{
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+    /* height: 33.3%; */
+    width: 100%;
+    font-family: a;
+    color: #fff;
+}
+.right10-inner>h1{
+    font-size: 2vw;
+    margin-top: 2vw;
+    font-weight: 100;
+
+}
+.right10-inner>p{
+    margin-top: 1vw;
+    font-size: 1.5vw;
+    width: 80%;
+    color: #e8e7eb;
+
+}
