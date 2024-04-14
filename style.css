@@ -111,7 +111,7 @@ html ,body{
     height: 100vh;
     width :100vw;
     /* background-color:#0a3cce; */
-    background-color:#2749f2fc !important;
+    background-color:#1338d0 !important;
     position: relative;
     color: #fff;
     font-family: a;
@@ -177,3 +177,17 @@ html ,body{
     width: 70%;
     font-size: 3.7vw;
 }
+
+#page5{
+    height: 100vh;
+    width:100vw;
+    background-color:#1137ca;
+    position: relative;
+    
+  }
+
+  #page5>canvas{
+    height: 100vh;
+    width:100vw;
+    position: relative;
+  }
